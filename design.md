@@ -20,7 +20,7 @@ The current *hops* library does however support the aforementioned APIs, but it 
 
 **And on a marketing/coding/logical note, *hops* is a confusing library name.**
 
-# Installation
+### Installation
 
 
 ```python
